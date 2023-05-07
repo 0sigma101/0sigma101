@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=print("Hello🤹")&width=2000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=print("Hello🤹")&width=2000&height=200)](https://github.com/0sigma101)
 
 ```yaml 
 👋 Hi there! I'm Pallav Gupta (0sigma101), a Learner trying to explore based.
@@ -15,4 +15,4 @@
 ```
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Let's%20Chat%20and%20Build%20🌻&width=2000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Let's%20Chat%20and%20Build%20🌻&width=2000&height=200)](https://github.com/0sigma101)
