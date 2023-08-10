@@ -16,9 +16,7 @@
 ```
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pallavgupta.pvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-pallav) 
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=0sigma101&color=blueviolet)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pallavgupta.pvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gupta-pallav)  ![Profile Views](https://komarev.com/ghpvc/?username=0sigma101&color=blueviolet)
 
 
 # 💻 Tech Stack:
