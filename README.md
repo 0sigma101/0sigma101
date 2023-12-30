@@ -44,9 +44,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0sigma101&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0sigma101&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![An image of @0sigma101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/0sigma101)](https://holopin.io/@0sigma101)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
